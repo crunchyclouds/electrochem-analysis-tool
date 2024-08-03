@@ -1,2 +1,9 @@
 # elecmat-analysis
-A data analysis tool that currently serves Raman spectra graphing, differential voltage analysis, and capacity retention analysis. 
+Currently in-progress
+
+Will serve the below functions based on data from the Neware Battery Cycling system
+-Discharge voltage vs cycles graphing
+-Differential voltage processing and graphing (dQ/dV)
+-Capacity retention (and additional smoothing functions) graphing 
+
+
